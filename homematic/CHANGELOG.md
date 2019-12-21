@@ -1,14 +1,10 @@
 # Changelog
 
-## 9.5
-
-- Fix ReGaHss binary
-
 ## 9.4
 
 - Update OCCU to 3.49.17-2
 - Use new gcc8 binary for armhf
-- Don't use ReGaHss-beta
+- Don't use regahss-beta
 
 ## 9.3
 
